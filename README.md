@@ -69,6 +69,22 @@ The word **AAKRITI** (originating from Sanskrit/Hindi ***आकृति***) sig
 
 ---
 
+## 🌐 Deploying to Vercel
+
+AAKRITI is fully optimized for **Vercel** deployment with zero manual configuration required.
+
+### 1-Click / Dashboard Deployment:
+1. Go to [Vercel Dashboard](https://vercel.com/new).
+2. Import the repository **`anweshanayak07/Aakriti`**.
+3. Keep default settings (Vercel automatically detects Vite):
+   - **Framework Preset**: Vite
+   - **Build Command**: `npm run build`
+   - **Output Directory**: `dist`
+4. Click **Deploy**!
+
+---
+
 ## 👤 Author
 
 Developed with ❤️ by **Anwesha Nayak**
+
