@@ -2,6 +2,8 @@
 
 > **Giving shape, structure, and form to imagination in 3D.**
 
+🔗 **Live Application**: [https://aakriti-3d.vercel.app/](https://aakriti-3d.vercel.app/)
+
 **Developed by:** Anwesha Nayak
 
 ---
@@ -11,6 +13,12 @@
 The word **AAKRITI** (originating from Sanskrit/Hindi ***आकृति***) signifies **"Form"**, **"Shape"**, **"Silhouette"**, or **"Structure"**. 
 
 **AAKRITI** is an interactive web platform built to give physical shape and tangible form to creative ideas. By converting simple textual prompts into fully real-time interactive 3D models (`.glb`), AAKRITI bridges the gap between abstract imagination and 3D visualization.
+
+---
+
+## 🔗 Live Demo
+
+Access the live application at: **[https://aakriti-3d.vercel.app/](https://aakriti-3d.vercel.app/)**
 
 ---
 
@@ -69,22 +77,12 @@ The word **AAKRITI** (originating from Sanskrit/Hindi ***आकृति***) sig
 
 ---
 
-## 🌐 Deploying to Vercel
+## 🌐 Deployment
 
-AAKRITI is fully optimized for **Vercel** deployment with zero manual configuration required.
-
-### 1-Click / Dashboard Deployment:
-1. Go to [Vercel Dashboard](https://vercel.com/new).
-2. Import the repository **`anweshanayak07/Aakriti`**.
-3. Keep default settings (Vercel automatically detects Vite):
-   - **Framework Preset**: Vite
-   - **Build Command**: `npm run build`
-   - **Output Directory**: `dist`
-4. Click **Deploy**!
+AAKRITI is deployed live on Vercel at [https://aakriti-3d.vercel.app/](https://aakriti-3d.vercel.app/).
 
 ---
 
 ## 👤 Author
 
 Developed with ❤️ by **Anwesha Nayak**
-
